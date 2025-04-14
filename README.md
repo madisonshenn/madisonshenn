@@ -55,9 +55,10 @@
 - **IBM**: [Data Engineering](https://coursera.org/share/2d51e547afdaff3bfe75ba5c925ea2ce)
 - **LinkedIn Learning**: Deep Learning, Machine Learning
 
-### Interest Outside of School and Work:
-- 👀 I’m interested in nature & travel, running, playing tennis, cooking, exploring authentic international restaurants around my city!!
-- ⚡ Fun fact: I've visited 45+ countries and have a lot left on my wishlist!
+## Interest Outside of School and Work ⚡
+
+- I’m interested in nature & travel, running, playing tennis, cooking, exploring authentic international restaurants around my city!!
+- Fun fact: I've visited 45+ countries and have a lot left on my wishlist!
 
 > Reach out for job opportunities, collaborations, or simply to chat!!
 
