@@ -1,5 +1,5 @@
 - # 👋 Hello, I'm Madison!
-- ## 🚀 Data professional skilled in statistical modeling, machine learning, and analytics, with cross-industry experience driving business decisions in marketing, finance, and venture capital.
+- ## 🚀 Data professional skilled in statistical modeling, machine learning, and analytics, with cross-industry experience driving business decisions.
 - 📍 Pittsburgh, PA | Greater Los Angeles, CA 
 - 📧 Email: [madisonshenn@gmail.com](mailto:madisonshenn@gmail.com)  
 - 🔗 LinkedIn: [Connect With Me On LinkedIn](https://www.linkedin.com/in/madison-s-0a2523198/)  
