@@ -7,12 +7,12 @@
 
 ## About Me 👨‍💻
 ## Professional Highlights 🌟
-
-- **Consulting Intern** – Oliver Wyman | Shanghai, China (2024)  
+- **AL/ML Engieer** – Kearney - CMU Student Lab | Pittsburgh, PA (2025)  
+- **Data Science Intern** – Perennial | Boulder, CO (2025)  
+- **Marketing Analytics Intern** – Oliver Wyman | Shanghai, China (2024)  
 - **Data Analyst Intern** – Autohome Inc | Beijing, China (2023)  
-- **Financial Service Office Consulting Intern** – Ernst & Young | Beijing, China (2023)  
+- **Financial Analyst Intern** – Ernst & Young, Financial Service Office | Beijing, China (2023)  
 - **Business Analyst Intern** – Credera, | GA, USA (2022)  
-- **Venture Capital Intern** – HP Tech Venture | CA, USA (2022)
 - **Human Resources Intern** – Bureau Executive | Shanghai, China and Malaysia (2020)
 
 ## Tech Toolbox 🛠️
