@@ -1,12 +1,12 @@
 - # 👋 Hello, I'm Madison!
-- ## 🚀 Data professional skilled in statistical modeling, machine learning, and analytics, with cross-industry experience driving business decisions.
-- 📍 Pittsburgh, PA | Greater Los Angeles, CA 
+- ## 🚀 Data professional skilled in analytics, statistical modeling, machine learning modeling, and machine learning operations, with cross-industry experience driving business decisions.
+- 📍 Pittsburgh, PA
 - 📧 Email: [madisonshenn@gmail.com](mailto:madisonshenn@gmail.com)  
 - 🔗 LinkedIn: [Connect With Me On LinkedIn](https://www.linkedin.com/in/madison-s-0a2523198/)
-- 🐙 Portfolio: [View My Portfolio](https://madison-portfolio-three.vercel.app/)
 
 ## About Me 👨‍💻
 ## Professional Highlights 🌟
+- **Data Scientist** – PPG | Pittsburgh, PA (2026.01 - Present)  
 - **AL/ML Engieer** – Kearney - CMU Student Lab | Pittsburgh, PA (2025)  
 - **Data Science Intern** – Perennial | Boulder, CO (2025)  
 - **Marketing Analytics Intern** – Oliver Wyman | Shanghai, China (2024)  
